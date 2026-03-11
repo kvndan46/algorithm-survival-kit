@@ -23,7 +23,7 @@
 
 ---
 
-# Пример: константная пространственная сложность
+## Пример: константная пространственная сложность
 
 Рассмотрим функцию поиска максимального элемента.
 
@@ -36,4 +36,40 @@ def find_max(arr):
             max_val = x
 
     return max_val
+```
+
+## Пример: Пример: линейная пространственная сложность
+
+```python
+def square_array(arr):
+    result = []
+
+    for x in arr:
+        result.append(x * x)
+
+    return result
+```
+
+## Пример: квадратичная пространственная сложность
+```python
+def create_matrix(n):
+    matrix = []
+
+    for i in range(n):
+        row = []
+        for j in range(n):
+            row.append(0)
+
+        matrix.append(row)
+
+    return matrix
+```
+
+## Пример: пространственная сложность рекурсии (Определить самостоятельно)
+```python
+def factorial(n):
+    if n == 0:
+        return 1
+
+    return n * factorial(n - 1)
 ```
