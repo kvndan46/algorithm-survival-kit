@@ -1,6 +1,6 @@
 # Лабораторная работа: Линейные структуры данных (Array / LinkedList)
 
-Расрпеделение задач по студентам - https://disk.yandex.ru/i/YfQco_x4w9ZvIg
+Расрпеделение задач по студентам - [https://disk.yandex.ru/i/YfQco_x4w9ZvIg](https://disk.yandex.ru/i/_zB7MnGkLCzhsA)
 
 ## 1. Транспорт (Bus Route)
 
