@@ -8,7 +8,9 @@
 - Оформить репозиторий на github
 - Подготовить отчет
 
-распределение задач - https://disk.yandex.ru/i/YT601psd_ulRLg
+распределение задач:
+ - https://disk.yandex.ru/i/YT601psd_ulRLg (07 группа)
+ - https://disk.yandex.ru/i/j_OanlmQC0Ad6w (02 группа) 
 
 ---
 
